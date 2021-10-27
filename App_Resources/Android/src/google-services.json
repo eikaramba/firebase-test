@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "xxxxxxxxxxxxxxxx",
         "android_client_info": {
-          "package_name": "xxxxxxxxxxxxxxxx"
+          "package_name": "com.nativescript.firebasetest.android"
         }
       },
       "oauth_client": [
